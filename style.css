@@ -1,0 +1,27 @@
+.heading{
+    color: black;
+    font-weight: 900;
+    font-style: italic;
+}
+.navbar{
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+}
+.row{
+    height: 500px;
+}
+.row img{
+    height: 500px;
+}
+
+.centered {
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: x-large;
+    font-weight: 900;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }

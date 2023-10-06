@@ -1,0 +1,17 @@
+.navbar{
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+}
+.row{
+    display: flex;
+    justify-content: space-evenly;
+    height: 600px;
+    /* background-image: url(https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8bHV4dXJ5JTIwaG90ZWx8ZW58MHx8MHx8fDA%3D&w=1000&q=80); */
+    margin: 10px;
+}
+.heading{
+    color: black;
+    font-weight: 900;
+    font-style: italic;
+}
